@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "cwlcatchexception",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattgallagher/CwlCatchException.git",
+      "state" : {
+        "revision" : "3b123999de19bf04905bc1dfdb76f817b0f2cc00",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "cwlpreconditiontesting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+      "state" : {
+        "revision" : "a23ded2c91df9156628a6996ab4f347526f17b6b",
+        "version" : "2.1.2"
+      }
+    },
+    {
+      "identity" : "generatedtestcase",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stuedev/GeneratedTestCase.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1db6077a4a331c0a67b7ba7de8a8b24b34eb639c"
+      }
+    },
+    {
+      "identity" : "nimble",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Nimble.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "06a355ff1d8d2aad2b60247056ab083a0686b09a"
+      }
+    },
+    {
+      "identity" : "quick",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Quick/Quick.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f299575759f802d3c29d60aa419d6b64d210c3cb"
+      }
+    },
+    {
+      "identity" : "statemachine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stuedev/StateMachine.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c2abac2e0801916a8f8f4757febe369b9e7a831d"
+      }
+    }
+  ],
+  "version" : 2
+}
